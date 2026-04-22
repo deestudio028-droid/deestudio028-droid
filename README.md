@@ -1,70 +1,27 @@
-```md
-<h1 align="center">Hey 👋 I'm Deepak</h1>
-<h3 align="center">🚀 Founder of DeeStudio | Builder | Tech Explorer</h3>
+# 💫 About Me:
+# Hey there 👋 I'm Deepak<br><br>🚀 Founder of **DeeStudio**<br>💻 Building cool apps, tools & games<br>📱 Learning Flutter and Android app development<br>🤖 Exploring AI tools and automation<br>🎮 Passionate about creating unique projects<br>🍛 Biryani lover & tech enthusiast<br>🌱 Currently growing **DeeStudio** into a real brand<br><br>---<br><br>## 🔭 Currently Working On<br><br>* Flutter apps for Play Store<br>* AI productivity tools<br>* Chrome extensions<br>* DeeStudio startup projects<br><br>---<br><br>## ⚒️ Tech Stack<br><br>Python • Flutter • Dart • JavaScript • Git • Firebase • AI Tools • Unity • Supabase • HTML • CSS<br><br>---<br><br>## 🚀 Featured Projects<br><br>* **ReelHand** – Hand gesture YouTube Shorts controller<br>* **Run Into Your Life** – Game Jam project<br>* **DeeStudio Apps** – Upcoming mobile apps<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Stats](https://github-readme-stats.vercel.app/api?username=deestudio028-droid\&show_icons=true\&theme=radical)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deestudio028-droid\&layout=compact\&theme=radical)<br><br>---<br><br>## 💫 Motto<br><br>**Dream Big • Build Fast • Stay Consistent**<br>
 
-<p align="center">
-Creating cool apps, tools, games and turning ideas into reality.
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dee._.studios) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCjvXWLW_Vu0DpJEHJsnN_yg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deestudio028@gmail.com) 
 
-## 🌟 About Me
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=deestudio028-droid&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=deestudio028-droid&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deestudio028-droid&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🚀 Founder of **DeeStudio**
-- 💻 Love building unique tech projects
-- 📱 Currently learning **Flutter** & Android App Development
-- 🤖 Exploring AI tools, automation & future tech
-- 🎮 Game Developer (Built **Run Into Your Life**)
-- 🌱 Goal: Build DeeStudio into a real brand
-- 🍛 Biryani + Tech = Happiness
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deestudio028-droid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔭 Currently Working On
-
-- 📱 Play Store apps
-- 🤖 AI productivity tools
-- 🌐 Chrome extensions
-- 🚀 Startup ideas under DeeStudio
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deestudio028-droid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=deestudio028-droid&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-
----
-
-## 🚀 Featured Projects
-
-- ✋ **ReelHand** – Control YouTube Shorts using hand gestures
-- 🎮 **Run Into Your Life** – Game Jam project
-- 📱 **Upcoming DeeStudio Apps**
-- 🤖 AI tools & automation experiments
-
----
-
-## 📊 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakgammer&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgammer&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 💼 Building the future with **DeeStudio**
-- ⭐ If you like my projects, follow the journey!
-
----
-
-<p align="center">
-🔥 Dream Big. Build Fast. Stay Consistent. 🔥
-</p>
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
