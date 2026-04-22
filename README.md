@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/deepakgammer/bannerfordeestudio/blob/main/ChatGPT%20Image%20Apr%2022,%202026,%2010_21_41%20PM.png?raw=true" alt="DeeStudio Banner" width="100%" />
+</p>
+
 # 💫 About Me:
 # Hey there 👋 I'm Deepak<br><br>🚀 Founder of **DeeStudio**<br>💻 Building cool apps, tools & games<br>📱 Learning Flutter and Android app development<br>🤖 Exploring AI tools and automation<br>🎮 Passionate about creating unique projects<br>🍛 Biryani lover & tech enthusiast<br>🌱 Currently growing **DeeStudio** into a real brand<br><br>---<br><br>## 🔭 Currently Working On<br><br>* Flutter apps for Play Store<br>* AI productivity tools<br>* Chrome extensions<br>* DeeStudio startup projects<br><br>---<br><br>## ⚒️ Tech Stack<br><br>Python • Flutter • Dart • JavaScript • Git • Firebase • AI Tools • Unity • Supabase • HTML • CSS<br><br>---<br><br>## 🚀 Featured Projects<br><br>* **ReelHand** – Hand gesture YouTube Shorts controller<br>* **Run Into Your Life** – Game Jam project<br>* **DeeStudio Apps** – Upcoming mobile apps<br><br>---<br><br>## 📊 GitHub Stats<br><br>![Stats](https://github-readme-stats.vercel.app/api?username=deestudio028-droid\&show_icons=true\&theme=radical)<br><br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deestudio028-droid\&layout=compact\&theme=radical)<br><br>---<br><br>## 💫 Motto<br><br>**Dream Big • Build Fast • Stay Consistent**<br>
 
